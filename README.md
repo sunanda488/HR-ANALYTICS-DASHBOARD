@@ -61,7 +61,10 @@ This project focuses on analyzing HR employee data using Microsoft Power BI. The
 
 Upload your dashboard screenshot to this repository and add its filename below:
 
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+[C:\Users\hp\Documents\HR Analytics Dashboard.png](https://github.com/sunanda488/HR-ANALYTICS-DASHBOARD/blob/main/power%20bi%20dashboard.png)
+
+Data set URL:
+https://github.com/sunanda488/HR-ANALYTICS-DASHBOARD/blob/main/HR%20Analytics%20Data.xlsx
 
 ## 🏁 Conclusion
 This project demonstrates how Microsoft Power BI can transform HR employee data into meaningful visual insights. The dashboard makes it easier to explore employee attrition, workforce trends, and key HR metrics through interactive visualizations.
